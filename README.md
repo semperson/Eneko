@@ -8,7 +8,7 @@ Set a video as your wallpaper
 ## Compiling
   - [Theos](https://theos.dev/) is required to compile the project
   - Depends on [libGCUniversal](https://github.com/MrGcGamer/LibGcUniversalDocumentation)
-  - You may want to edit the root `Makefile` to use your Theos SDK and custom toolchain
+  - You may want to edit the root `Makefile` to use your Theos SDK and toolchain
 
 ## License
 If you take code from this repository please link it, or my [Twitter](https://twitter.com/schneelittchen) to your project<br>
