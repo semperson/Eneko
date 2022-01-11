@@ -37,8 +37,6 @@
 			<string>enableLockscreenWallpaper</string>
 			<key>label</key>
 			<string>Enable</string>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -81,8 +79,6 @@
 			<true/>
 			<key>isSegmented</key>
 			<false/>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -107,8 +103,6 @@
 			<true/>
 			<key>isSegmented</key>
 			<false/>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -133,8 +127,6 @@
 				<string>Light</string>
 				<string>Dark</string>
 			</array>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -159,8 +151,6 @@
 			<true/>
 			<key>isSegmented</key>
 			<false/>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -185,8 +175,6 @@
 			<true/>
 			<key>isSegmented</key>
 			<false/>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 
 		<dict>
@@ -206,8 +194,6 @@
 			<string>enableHomescreenWallpaper</string>
 			<key>label</key>
 			<string>Enable</string>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -250,8 +236,6 @@
 			<true/>
 			<key>isSegmented</key>
 			<false/>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -276,8 +260,6 @@
 			<true/>
 			<key>isSegmented</key>
 			<false/>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -302,8 +284,6 @@
 				<string>Light</string>
 				<string>Dark</string>
 			</array>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -328,8 +308,6 @@
 			<true/>
 			<key>isSegmented</key>
 			<false/>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -354,8 +332,6 @@
 			<true/>
 			<key>isSegmented</key>
 			<false/>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 
 		<dict>
@@ -375,8 +351,6 @@
 			<string>enableControlCenterWallpaper</string>
 			<key>label</key>
 			<string>Enable</string>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -419,8 +393,6 @@
 			<true/>
 			<key>isSegmented</key>
 			<false/>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -445,8 +417,6 @@
 			<true/>
 			<key>isSegmented</key>
 			<false/>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -471,8 +441,6 @@
 				<string>Light</string>
 				<string>Dark</string>
 			</array>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -497,8 +465,6 @@
 			<true/>
 			<key>isSegmented</key>
 			<false/>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -523,8 +489,6 @@
 			<true/>
 			<key>isSegmented</key>
 			<false/>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 
 		<dict>
@@ -544,8 +508,6 @@
 			<string>muteWhenMusicPlays</string>
 			<key>label</key>
 			<string>Mute when music plays</string>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -558,8 +520,6 @@
 			<string>hideWhenLowPower</string>
 			<key>label</key>
 			<string>Disable in low power mode</string>
-			<key>PostNotification</key>
-			<string>love.litten.enekopreferences/ReloadPrefs</string>
 		</dict>
 
 		<dict>
@@ -597,7 +557,7 @@
  			<key>label</key>
  			<string>Contributors</string>
  			<key>detail</key>
- 			<string>ENEContributorsSubPrefsListController</string>
+ 			<string>ENEContributorsSubPreferencesListController</string>
  			<key>ENESub</key>
  			<string>contributorsSub</string>
  		</dict>
