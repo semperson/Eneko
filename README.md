@@ -1,4 +1,4 @@
-# Eneko
+# Eneko 🎬
 Set a video as your wallpaper
 
 ## Installation
